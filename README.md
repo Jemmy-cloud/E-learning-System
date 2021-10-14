@@ -1,6 +1,6 @@
 # E-learning-System
 
-e-learning NodeJs project for university web technologies course with students and teachers utilizes an online learning collaboration, Prototype of eLearning system
+e-learning is a NodeJs project for university web technologies course with students and teachers utilizes an online learning collaboration, Prototype of eLearning system
 is an e-learning platform that allows teachers to create courses and manage their content,
 Backend Java (Spring Framework), Bootstrap
 elearning
